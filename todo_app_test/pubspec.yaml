@@ -1,0 +1,27 @@
+name: todo_app_test
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  cupertino_icons: ^1.0.2
+  provider: ^6.1.2
+  flutter_form_builder: ^9.4.1
+  form_builder_validators: ^11.0.0
+  hugeicons: ^0.0.7
+  another_flushbar: ^1.12.30
+  fl_chart: ^0.69.0
+  ionicons: ^0.2.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
